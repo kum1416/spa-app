@@ -36,6 +36,9 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 <br>
 <br>
 
-### 🌼주요 기능 설명
-
+### 🌼사이트의 소소한 포인트
+<img src="https://github.com/kum1416/spa-app/assets/120539978/d0950526-9447-4420-ac4f-5d2d06cae2e9" width="400px" />
+<img src="https://github.com/kum1416/spa-app/assets/120539978/dc832085-9374-418d-b1be-4d0e6ce0e1cb" width="400px" />
+<img src="https://github.com/kum1416/spa-app/assets/120539978/7e91dcbf-1a2f-4c2a-af96-eb64df808f10" width="400px" />
+<img src="https://github.com/kum1416/spa-app/assets/120539978/63fa17d5-c62c-4aed-9395-114fbf34b626" width="400px" />
 </div>
