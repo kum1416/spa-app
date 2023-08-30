@@ -27,7 +27,7 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 
 ### 🌼사이트 구조
 <img src="https://github.com/kum1416/spa-app/assets/120539978/6271ac91-a071-407d-a41f-1c6639789716" width="800px" />
-
+사이트 구조는 메인 페이지와 서브페이지(Almond, Cashew, Hazelnut, Peanut, Sesame)로 구성하였습니다.
 
 
 <br>
