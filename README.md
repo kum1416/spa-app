@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffaf79,50:ff5c57,100:ffbbb1&height=190&section=header&text=spa%20app&fontColor=fff&fontSize=65&fontAlignY=40)
-
 <div align=center>
+	
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffaf79,50:ff5c57,100:ffbbb1&height=190&section=header&text=spa%20app&fontColor=fff&fontSize=65&fontAlignY=40)
   
 # 💕WILD SOULS
 
@@ -11,14 +11,22 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 
 
 <a href="https://kum1416.github.io/spa-app/">◾ WILD SOULS 사이트 보기  ◾</a>
+<br>
 
-## 사용된 기술
+### 🌼사용된 기술
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 
+### 🌼사이트 구조
 
+
+
+<br>
+<br>
+
+### 🌼주요 기능 설명
 
 </div>
