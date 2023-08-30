@@ -15,6 +15,8 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 <br>
 <br>
 
+</div>
+
 ### 🌼사용된 기술
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -28,10 +30,11 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 ### 🌼사이트 구조
 <img src="https://github.com/kum1416/spa-app/assets/120539978/6271ac91-a071-407d-a41f-1c6639789716" width="800px" />
 
+<div align=center>
 사이트 구조는 메인 페이지와
 <br>
 서브페이지(Almond, Cashew, Hazelnut, Peanut, Sesame)로 구성하였습니다.
-
+</div>
 
 <br>
 <br>
@@ -44,6 +47,8 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 
 <br>
 <br>
+
+<div align=center>	
 
 #### 감사합니다.
 </div>
