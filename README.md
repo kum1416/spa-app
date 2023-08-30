@@ -22,7 +22,11 @@ WILD SOULS 사이트의 레이아웃이 SPA 사이트로 만들어보기 좋을 
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 
+<br>
+<br>
+
 ### 🌼사이트 구조
+![structure](https://github.com/kum1416/spa-app/assets/120539978/8d5360ae-589a-46fd-a770-59334460dc75 width="600px")
 
 
 
